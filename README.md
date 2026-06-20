@@ -184,9 +184,9 @@ La carpeta es estática, sirve cualquier hosting:
 - **Dominio propio** (ej. `loftvistasaavedra.cl`) — Netlify lo conecta en 5 min.
 - **Precios** — cuando quieras mostrar valores, te los integramos en la sección de cabañas.
 - **Reseñas reales** — podemos sumar una sección con 2-3 reseñas destacadas de Airbnb.
-- **Video en el hero** — si tenés un clip mp4 (10-20s), lo metemos en lugar de la foto fija para más impacto.
+- **Video en el hero** — si tienes un clip mp4 (10-20s), lo metemos en lugar de la foto fija para más impacto.
 - **Pixel de Meta / Google Analytics** — para medir cuánta gente hace click en "Reservar por WhatsApp".
 
 ---
 
-*Web generada con Claude Code · Junio 2026*
+*Web generada por Diego Sepulveda · Junio 2026*
